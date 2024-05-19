@@ -14,5 +14,7 @@ console.log("тест3")
 </script>
 
 <template>
-  123
+      <h5 class="mb-4 text-xm font-medium text-gray-500  pt-10">
+       123
+      </h5>
 </template>
