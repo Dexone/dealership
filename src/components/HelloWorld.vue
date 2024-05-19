@@ -15,6 +15,6 @@ console.log("тест3")
 
 <template>
       <h5 class="mb-4 text-xm font-medium text-gray-500  pt-10">
-       123
+       123123
       </h5>
 </template>
