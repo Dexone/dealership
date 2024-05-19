@@ -9,6 +9,7 @@ defineProps({
 
 const favouriteStore = useFavourite();
 favouriteStore.addToFavourite()
+console.log("тест3")
 
 </script>
 
