@@ -105,9 +105,9 @@
 <script setup>
 import { ref, provide } from 'vue'
 import axios from 'axios';
-defineProps({
-  msg: String,
-})
+// defineProps({
+//   msg: String,
+// })
 
 
 import { useProduct } from '../../store/productStore';
